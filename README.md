@@ -26,6 +26,9 @@ scalable, reliable hosting environments.
 - ![LiteSpeed](https://img.shields.io/badge/LiteSpeed-2AA8FF?logo=litespeed&logoColor=white)
 - ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
 - ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+- ![KaliLinux](https://img.shields.io/badge/KaliLinux-557C94?logo=kalilinux&logoColor=white)
+- ![RockyLinux](https://img.shields.io/badge/RockyLinux-10B981?logo=rockylinux&logoColor=white)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ### 🛠️ Scripting & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
