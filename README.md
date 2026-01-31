@@ -78,4 +78,6 @@ scalable, reliable hosting environments.
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/isunilajith/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isunilajith/)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suniljoseph206@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=Instagram&logoColor=white)](https://www.instagram.com/isuniljoseph/)
