@@ -56,39 +56,6 @@ scalable, reliable hosting environments.
 
 ---
 
-## 🧑‍💼 Professional Experience
-
-**Shift Supervisor – Technical Support Team**  
-Shock Hosting LLC (Remote) | 2023 – Present
-- Advanced troubleshooting for servers, websites, and email services
-- VPS & Dedicated server OS reinstallation and deployment
-- Performance monitoring (CPU, RAM, disk usage)
-- Abuse report investigation (spam, malware, phishing)
-- Client migrations and infrastructure optimization
-
-**Technical Support Representative / Team Manager**  
-DIYA Systems Pvt. Ltd | 2020 – Present
-- Tier-1 and escalated technical support
-- Team management, performance reporting, and mentoring
-- CMS installation & troubleshooting (WordPress, Joomla, Drupal)
-- Database repair, optimization, and migrations
-
-**Customer Support Engineer**  
-Electrotech Services Inc. | 2017 – 2019
-- OS configuration & network troubleshooting
-- Remote desktop support
-- Siemens HiPath 4000 IP system programming
-
----
-
-## 📜 Certifications & Training
-- cPanel Professional Certification (CPP)
-- cPanel & WHM Systems Administrator (CWA)
-- cPanel & WHM System Administrator I (CWSA-1)
-- Red Hat Linux Training (Keyshell)
-
----
-
 ## 🚀 Current Focus
 - Linux automation using Bash & Python
 - Network troubleshooting labs
