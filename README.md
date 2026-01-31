@@ -33,7 +33,7 @@ scalable, reliable hosting environments.
 ### 🛠️ Scripting & Automation
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E?logo=nodejs&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
 
 ### 📧 Email & DNS
 ![DNS](https://img.shields.io/badge/DNS-0052CC?logo=cloudflare&logoColor=white)
